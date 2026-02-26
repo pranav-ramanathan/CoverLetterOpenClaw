@@ -16,6 +16,3 @@
 *.run.xml
 *.blg
 *.bbl
-
-# Generated PDFs (keep source-only in git)
-*.pdf
