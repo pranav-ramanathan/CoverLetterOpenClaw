@@ -1,6 +1,21 @@
+# LaTeX build artifacts
 *.aux
 *.log
 *.out
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.bcf
+*.run.xml
+*.blg
+*.bbl
+
+# Generated PDFs (keep source-only in git)
+*.pdf
